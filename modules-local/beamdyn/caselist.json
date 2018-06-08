@@ -1,0 +1,32 @@
+{
+    "bd_5MW_dynamic": {
+        "case_directory": "/modules-local/beamdyn/bd_5MW_dynamic",
+        "input": "bd_driver.inp",
+        "output": "bd_driver.out",
+        "dependencies": null
+    },
+    "bd_curved_beam": {
+        "case_directory": "/modules-local/beamdyn/bd_curved_beam",
+        "input": "bd_driver.inp",
+        "output": "bd_driver.out",
+        "dependencies": null
+    },
+    "bd_isotropic_rollup": {
+        "case_directory": "/modules-local/beamdyn/bd_isotropic_rollup",
+        "input": "bd_driver.inp",
+        "output": "bd_driver.out",
+        "dependencies": null
+    },
+    "bd_static_cantilever_beam": {
+        "case_directory": "/modules-local/beamdyn/bd_static_cantilever_beam",
+        "input": "bd_driver.inp",
+        "output": "bd_driver.out",
+        "dependencies": null
+    },
+    "bd_static_twisted_with_k1": {
+        "case_directory": "/modules-local/beamdyn/bd_static_twisted_with_k1",
+        "input": "bd_driver.inp",
+        "output": "bd_driver.out",
+        "dependencies": null
+    }
+}

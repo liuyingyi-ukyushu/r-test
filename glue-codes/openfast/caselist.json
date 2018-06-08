@@ -1,0 +1,8 @@
+{
+    "AWT_YFix_WSt": {
+        "case_directory": "/glue-codes/openfast/AWT_YFix_WSt",
+        "input": "AWT_YFix_WSt.fst",
+        "output": "AWT_YFix_WSt.outb",
+        "dependencies": "/glue-codes/fast/AWT27"
+    }
+}
