@@ -3,24 +3,28 @@
         "case_directory": "glue-codes/openfast/AWT_YFix_WSt",
         "input": "AWT_YFix_WSt.fst",
         "output": "AWT_YFix_WSt.outb",
+        "baseline": "$machinecompiler/AWT_YFix_WSt.outb",
         "dependencies": "glue-codes/openfast/AWT27"
     },
     "AWT_WSt_StartUp_HighSpShutDown": {
-        "case_directory": "/glue-codes/openfast/AWT_WSt_StartUp_HighSpShutDown",
+        "case_directory": "glue-codes/openfast/AWT_WSt_StartUp_HighSpShutDown",
         "input": "AWT_WSt_StartUp_HighSpShutDown.fst",
         "output": "AWT_WSt_StartUp_HighSpShutDown.outb",
-        "dependencies": "/glue-codes/openfast/AWT27"
+        "baseline": "$machinecompiler/AWT_WSt_StartUp_HighSpShutDown.outb",
+        "dependencies": "glue-codes/openfast/AWT27"
     },
     "AWT_YFree_WSt": {
-        "case_directory": "/glue-codes/openfast/AWT_YFree_WSt",
+        "case_directory": "glue-codes/openfast/AWT_YFree_WSt",
         "input": "AWT_YFree_WSt.fst",
         "output": "AWT_YFree_WSt.outb",
-        "dependencies": "/glue-codes/openfast/AWT27"
+        "baseline": "$machinecompiler/AWT_YFree_WSt.outb",
+        "dependencies": "glue-codes/openfast/AWT27"
     },
     "AWT_YFree_WTurb": {
-        "case_directory": "/glue-codes/openfast/AWT_YFree_WTurb",
+        "case_directory": "glue-codes/openfast/AWT_YFree_WTurb",
         "input": "AWT_YFree_WTurb.fst",
         "output": "AWT_YFree_WTurb.outb",
-        "dependencies": "/glue-codes/openfast/AWT27"
+        "baseline": "$machinecompiler/AWT_YFree_WTurb.outb",
+        "dependencies": "glue-codes/openfast/AWT27"
     }
 }
